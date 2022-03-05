@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1585409177 source:e:\2019-2020\c\projet_banquise\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"banquise.h"
+	"joueur.h"
+	"objet.h"
+
+1585585270 source:e:\2019-2020\c\projet_banquise\banquise.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"banquise.h"
+	"objet.h"
+
+1585318101 e:\2019-2020\c\projet_banquise\banquise.h
+	"joueur.h"
+
+1585830259 source:e:\2019-2020\c\projet_banquise\objet.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"banquise.h"
+	"objet.h"
+
+1585405758 source:e:\2019-2020\c\projet_banquise\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+
+1585259830 e:\2019-2020\c\projet_banquise\joueur.h
+
+1585258707 e:\2019-2020\c\projet_banquise\objet.h
+	"joueur.h"
+
